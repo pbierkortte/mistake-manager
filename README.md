@@ -1,4 +1,4 @@
-# Mistake Manager
+# Mistake Mender
 
 > [!NOTE]
 > ⭐ Don't forget to star this repo. Starring it costs nothing and it will help you remember, or you could just keep making the same mistake. Your call. 😄
@@ -11,14 +11,14 @@ A cuotiben 错题本 is a notebook for recording wrong answers and reviewing the
 
 ## Purpose
 
-Corrections do not survive the session. Mistake Manager turns each one into a rule that arrives before the next chance to break it.
+Corrections do not survive the session. Mistake Mender turns each one into a rule that arrives before the next chance to break it.
 
 ## Usage
 
 ### Install
 
 ```shell
-npx openskills install pbierkortte/mistake-manager
+npx openskills install pbierkortte/mistake-mender
 ```
 
 ### Update
@@ -34,7 +34,7 @@ Correcting the agent is usually enough to trigger it.
 Slash command:
 
 ```shell
-/mistake-manager
+/mistake-mender
 ```
 
 Or ask naturally:

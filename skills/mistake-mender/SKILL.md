@@ -1,9 +1,9 @@
 ---
-name: mistake-manager
+name: mistake-mender
 description: A correction taken and never written is the same as one never given, and the rule that would have stopped you is only worth anything if it reaches you before the work rather than after.
 ---
 
-# Mistake Manager
+# Mistake Mender
 
 ## How a correction becomes a rule
 
