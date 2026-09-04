@@ -59,6 +59,6 @@ Carry that same sentence into the list rather than writing a fresh summary for i
 
 An entry holds what happened, the cause beneath it, and the remedy to follow next time, with the day it last landed and the number of times it has landed under that remedy, both on one line. Give the remedy a paragraph of its own, written so it reads without the story around it.
 
-An entry joins the rules you already follow, never a list of its own, because a second list has to agree with the first about what is in it and it will not, and the one that loses is the one nobody reads first. Arranging them into groups inside that list costs nothing, since a group is read as part of the list rather than beside it.
+An entry joins the rules you already follow, never a list of its own, because a second list has to agree with the first about what is in it and it will not, and the one that loses is the one nobody reads first.
 
-A new entry goes at the top of the list, since the newest rule is the one you have had no chance to keep yet and it wants reading before the ones you already have.
+A new entry goes at the top of the list, since the newest rule is the one you have had no chance to keep yet and it wants reading before the ones you already have. The list runs newest to oldest by the day each line was created.
